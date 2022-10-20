@@ -1,5 +1,8 @@
 # 💫 About Me:
-● Solution driven web developer adept at contributing to a highly collaborative work environment and finding solutions.<br>● Strong knowledge in MERN Stack with vast experience in building Web Applications.<br>● Expertise in using React.js/Redux to build User Interface, strong knowledge of state store, middleware, action creator, reducer and container.<br>● Deep understanding of advanced Javascript concepts, such as Prototype, Closure, Scope Chain and Promise .<br>● Proven experience in developing low-latency robust customer focused web applications using React and Redux.
+- Solution driven web developer adept at contributing to a highly collaborative work environment and finding solutions.
+- Strong knowledge in MERN Stack with vast experience in building Web Applications.<br>● Expertise in using React.js/Redux to build User Interface, strong knowledge of state store, middleware, action creator, reducer and container.
+- Deep understanding of advanced Javascript concepts, such as Prototype, Closure, Scope Chain and Promise .
+- Proven experience in developing low-latency robust customer focused web applications using React and Redux.
 
 
 ## 🌐 Socials:
