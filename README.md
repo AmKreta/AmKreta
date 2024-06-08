@@ -1,9 +1,8 @@
 # 💫 About Me:
-- Solution driven web developer adept at contributing to a highly collaborative work environment and finding solutions.
+- Solution driven frontend engineer adept at contributing to a highly collaborative work environment and finding solutions.
 - Strong knowledge in MERN/MEAN Stack, Python and C++ with vast experience in building Web Applications.
-- Expertise in using React.js/Redux Angular/Ngrx to build User Interface, strong knowledge of state store, middleware, action creator, reducer and container.
 - Deep understanding of advanced Javascript concepts, such as Prototype, Closure, Scope Chain and Promise .
-- Proven experience in developing low-latency robust customer focused web applications using React and Redux.
+- Proven experience in developing low-latency robust customer focused web applications using React, Angular and Node.
 
 
 ## 🌐 Socials:
